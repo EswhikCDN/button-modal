@@ -3,6 +3,7 @@ document.write(`
 <!-- Theme Eswhik -->
 <script src="https://cdn.eswhik.com/npm/theme.js"></script>
 <!-- End Theme Eswhik -->
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <style>
   .mdl-dialog {
     border: none;
